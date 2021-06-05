@@ -1,3 +1,2 @@
 ## Alex Dow
-* Fullstack Web Developer, AR/VR Enthusiast, EVM Developer
-** Apple User
+[meow](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
